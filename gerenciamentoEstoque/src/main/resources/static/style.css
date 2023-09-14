@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Main Section */
+#main {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Header */
+#header {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Footer */
+#footer {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Sidebar */
+#sidebar {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Content */
+#content {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Navigation */
+#navigation {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+/* Section: Aside */
+#aside {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
