@@ -1,4 +1,4 @@
-*Sistema de Gerenciamento de Estoque com Java e Spring Boot
+#Sistema de Gerenciamento de Estoque com Java e Spring Boot
 Logo do Projeto
 
 Descrição
