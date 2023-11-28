@@ -1,21 +1,21 @@
-#Sistema de Gerenciamento de Estoque com Java e Spring Boot
-Logo do Projeto
 
-Descrição
-Este projeto é um sistema de gerenciamento de estoque desenvolvido em Java utilizando o framework Spring Boot. O objetivo principal é fornecer uma solução eficiente para o controle de estoques, permitindo a gestão de produtos, categorias, fornecedores e movimentações de entrada e saída de itens.
+# Sistema de Gerenciamento de Estoque com Java e Spring Boot
 
-Funcionalidades Principais
-Cadastro de Produtos: Adição, remoção, atualização e visualização de informações detalhadas sobre os produtos em estoque.
+## Descrição do Projeto
 
-Cadastro de Categorias: Gerenciamento de categorias para organizar e classificar os produtos.
+O Sistema de Gerenciamento de Estoque é uma aplicação desenvolvida em Java e Spring Boot, projetada para simplificar e otimizar o controle de estoque em diversos tipos de negócios. Este projeto inclui a integração de testes automatizados usando o framework JUnit.
 
-Cadastro de Fornecedores: Registro e atualização de informações dos fornecedores associados aos produtos.
+## Funcionalidades Principais
 
-Movimentações de Estoque: Registra e gerencia entradas e saídas de produtos, mantendo o controle preciso do estoque.
+-   **Cadastro de Produtos:** Adicione novos produtos ao estoque, incluindo informações detalhadas como nome, descrição, quantidade disponível e preço.
+    
+-   **Atualização de Estoque:** Realize operações de entrada e saída de produtos para manter o inventário atualizado.
+    
+-   **Relatórios:** Gere relatórios detalhados sobre o estado atual do estoque, facilitando a tomada de decisões informadas.
+    
 
-Tecnologias Utilizadas
-Java: Linguagem de programação principal.
+## Tecnologias Utilizadas
 
-Spring Boot: Framework para desenvolvimento de aplicações Java baseadas em microsserviços.
-
-JUnit: Framework de teste para Java, utilizado para garantir a qualidade e confiabilidade do código.
+-   **Java:** Linguagem de programação principal do projeto.
+-   **Spring Boot:** Framework para desenvolvimento de aplicativos Java baseados em microserviços.
+-   **JUnit:** Framework de teste para Java, utilizado para a implementação de testes automatizados.
